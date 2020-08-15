@@ -5,19 +5,24 @@
 
 - ⭐ All of my projects are available at [https://github.com/omgkotofey](https://github.com/omgkotofey)
 
-- 📫 How to reach me **omgkotofey@gmail.com**
-
-<h3 align="center">🔥 Skills 🔥</h3>
-<h4>Programming Languages</h4>
+- 📫 How to reach me: **omgkotofey@gmail.com**
+<br>
+<br>
+<h2 align="center">🔥 Skills 🔥</h2>
+<br>
+<h3>Programming Languages</h4>
+<br>
 <p align="left">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
 </p>
-<h4>Backend</h4>
+<br>
+<h3>Backend</h3>
+<br>
 <p align="left">
 	<img src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg" alt="zookeeper" width="40" height="40" />
-	<img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elk" width="40" height="40" />
+	<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/yiiframework/yiiframework-icon.svg" alt="yii2" width="40" height="40" />
@@ -29,7 +34,9 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40" />  
 </p>
-<h4>Frontend</h4>
+<br>
+<h3>Frontend</h3>
+<br>
 <p align="left">
 	<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-icon.svg" alt="grunt" width="40" height="40" />
@@ -45,14 +52,18 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" />
 </p>
-<h4>Devops</h4>
+<br>
+<h3>Devops</h3>
+<br>
 <p align="left">
 	<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> 
-	<img src="/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> 
+	<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> 
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> 
 	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> 
 </p>
-<h4>Miscellaneous</h4>
+<br>
+<h3>Miscellaneous</h3>
+<br>
 <p align="left">
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="vscode" width="40" height="40" />
@@ -60,11 +71,12 @@
 	<img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="jetbrains" width="40" height="40" />
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
 </p>
+<br>
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgkotofey&layout=compact&hide=html" alt="omgkotofey" /></p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgkotofey&layout=compact&hide=html&theme=tokyonight " alt="omgkotofey" /></p>
 
 <p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=omgkotofey&show_icons=true&theme=cobalt" alt="omgkotofey" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=omgkotofey&show_icons=true&theme=tokyonight " alt="omgkotofey" />
 </p>
 <p align="center">
 	<a href="https://codepen.io/omgkotofey" target="blank">
