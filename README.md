@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm omgkotofey 🐈</h1>
 <h3 align="center">A full-stack developer from Russia</h3>
 
-- 🚀 I’m currently working on [Qonversion](http://qonversion.io/)
+- 🚀 I’m currently working on [FastVPS](https://fastvps.hosting/)
 
 - ⭐ All of my projects are available at [https://github.com/omgkotofey](https://github.com/omgkotofey)
 
