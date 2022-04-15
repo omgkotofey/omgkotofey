@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm omgkotofey 🐈</h1>
-<h3 align="center">A full-stack developer from Russia</h3>
 
 - 🚀 I’m currently working on [FastVPS](https://fastvps.hosting/)
 
