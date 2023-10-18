@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm omgkotofey 🐈</h1>
 
-- 🚀 I’m currently working on [FastVPS](https://fastvps.hosting/)
+~~- 🚀 I’m currently working on [FastVPS](https://fastvps.hosting/)~~
 
 - ⭐ All of my projects are available at [https://github.com/omgkotofey](https://github.com/omgkotofey)
 
