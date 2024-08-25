@@ -26,7 +26,7 @@
 	<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="80" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="apache" width="80" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="symfony" width="80" height="40" />
-	<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="40" height="40" />
+	<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="80" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="nginx" width="80" height="40" />
 	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="80" height="40" /> 
 	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="80" height="40" /> 
