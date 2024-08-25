@@ -12,7 +12,7 @@
 <h3>Programming Languages</h4>
 <br>
 <p align="left">
-	<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="php" width="80" height="40" /> 
+	<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="php" width="40" height="40" /> 
 	<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="80" height="40" /> 
 	<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40" /> 
 	<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="80" height="40" /> 
