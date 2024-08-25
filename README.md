@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm omgkotofey 🐈</h1>
 
-- 🚀 I’m currently working on [Samokat.tech](https://samokat.tech/)
+- 🚀 I’m currently working on [Lamoda.tech](https://latech.ru/)
 
 - ⭐ All of my projects are available at [https://github.com/omgkotofey](https://github.com/omgkotofey)
 
@@ -12,6 +12,7 @@
 <h3>Programming Languages</h4>
 <br>
 <p align="left">
+	<img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="php" width="80" height="40" /> 
 	<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="80" height="40" /> 
 	<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="80" height="40" /> 
 	<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="80" height="40" /> 
